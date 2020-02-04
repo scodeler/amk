@@ -1,0 +1,46 @@
+@import 'mixins';
+
+.textInput{
+  display: block;
+  margin: 0 0 20px;
+
+  label{
+    font: 14px $font;
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  input[type="text"],
+  input[type="email"],
+  input[type="password"]{
+    background: none;
+    border: solid 1px $lightGold;
+    @include border-radius;
+    padding: 5px 15px;
+    display: block;
+    width: 100%;
+    color: #fff;
+    font: 15px $font;
+  }
+}
+
+.checkBox{
+  margin-bottom: 20px;
+  label{
+    font: 14px $font;
+  }
+}
+
+.bigButton{
+  background-image: linear-gradient($lightGold,$darkGold);
+  color: #fff;
+  text-transform: uppercase;
+  padding: 10px 15px;
+  border: 0;
+  display: block;
+  font: $bold 15px $font;
+  width: 100%;
+  cursor: pointer;
+  margin: 30px 0;
+  @include border-radius;
+}

@@ -1,0 +1,35 @@
+@import 'mixins';
+
+.login{
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  .bigButton{
+    margin-bottom: 10px;
+  }
+
+  a{
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: table;
+    margin: 0 auto;
+    &:hover{
+      color: $lightGold;
+    }
+  }
+}
+
+.welcomeTitle{
+  font: 20px $font;
+  text-transform: uppercase;
+  margin: 50px 0;
+}
+
+.fomLogin{
+  max-width: 275px;
+}

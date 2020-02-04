@@ -1,0 +1,11 @@
+$black: #001522;
+$blue: #0A183D;
+$darkGold: #A26828;
+$lightGold: #CE9246;
+
+$font: 'Montserrat', sans-serif;
+$bold: 700;
+
+@mixin border-radius($radius:5px){
+  border-radius: $radius;
+}

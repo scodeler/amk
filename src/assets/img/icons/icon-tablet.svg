@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.783" height="25.697" viewBox="0 0 21.783 25.697">
+  <g id="Icone_Ebook" data-name="Icone Ebook" transform="translate(-589 -811.5)">
+    <g id="Group_656" data-name="Group 656" transform="translate(589 811.5)">
+      <g id="Group_655" data-name="Group 655" transform="translate(0 0)">
+        <g id="Group_653" data-name="Group 653" transform="translate(7.488 24.166)">
+          <path id="Path_2127" data-name="Path 2127" d="M638.276,953.5h-3.744A1.532,1.532,0,0,0,633,955.032h6.807A1.532,1.532,0,0,0,638.276,953.5Z" transform="translate(-633 -953.5)" fill="#ce9246"/>
+        </g>
+        <g id="Group_654" data-name="Group 654">
+          <path id="Path_2128" data-name="Path 2128" d="M609.076,811.5H590.708A1.707,1.707,0,0,0,589,813.208V835.49a1.708,1.708,0,0,0,1.708,1.708h4.759v-.024A2.532,2.532,0,0,1,598,834.645h3.792a2.532,2.532,0,0,1,2.529,2.529v.024h4.759a1.708,1.708,0,0,0,1.708-1.708V813.208A1.707,1.707,0,0,0,609.076,811.5Zm.006,21.686H590.7V813.462h18.38Z" transform="translate(-589 -811.5)" fill="#ce9246"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_657" data-name="Group 657" transform="translate(594.063 818.246)">
+      <path id="Path_2129" data-name="Path 2129" d="M629.648,851.143H619.513a.761.761,0,1,0,0,1.522h10.135a.761.761,0,0,0,0-1.522Z" transform="translate(-618.752 -851.143)" fill="#ce9246"/>
+      <path id="Path_2130" data-name="Path 2130" d="M629.648,873.475H619.513a.761.761,0,1,0,0,1.522h10.135a.761.761,0,0,0,0-1.522Z" transform="translate(-618.752 -869.674)" fill="#ce9246"/>
+      <path id="Path_2131" data-name="Path 2131" d="M624.032,895.807h-4.518a.761.761,0,1,0,0,1.522h4.518a.761.761,0,0,0,0-1.522Z" transform="translate(-618.752 -888.206)" fill="#ce9246"/>
+    </g>
+  </g>
+</svg>
